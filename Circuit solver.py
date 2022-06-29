@@ -248,36 +248,3 @@ else:
            
        for w in range(row_max-node_max):
            print("Current through voltage source %d: %f" %(w+1, x[w+node_max]))   
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-      
-      
-      
